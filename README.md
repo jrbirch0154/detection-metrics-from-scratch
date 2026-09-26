@@ -25,6 +25,11 @@ NMS removes duplicate boxes, raising precision without losing recall.
 ## Running
 
 Requires Python 3.10+ and NumPy. (Reference requirements.txt)
+```
+pip install -r requirements.txt
+jupyter notebook IOU_Full_Stack.ipynb
+```
+
 
 ## Conventions
 
